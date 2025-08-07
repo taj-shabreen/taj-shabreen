@@ -13,11 +13,8 @@
 - 🎓 2nd Year B.Tech CSE specializing in AI & Machine Learning  
 - 💻 Passionate about building intelligent systems and secure applications  
 - 🧠 Developed a CNN-based **Brain Tumor Detection** model using transfer learning  
-- 🛡️ Built a **Real-Time Malicious Detection** tool for monitoring IoT cybersecurity threats  
-- 🌐 Created a **Weather Forecast WebApp** with dynamic UI using Flask and OpenWeatherMap API  
-- 📷 Developed an image classifier using pretrained **ResNet-50** with real-time predictions  
-- 🌸 Implemented a CNN model for **Flower Classification**  
-- ⚙️ Experienced in full-stack Flask development integrating AI models with web apps  
+- 🛡️ Built a **Real-Time Malicious Detection** tool for monitoring IoT cybersecurity threats   
+- 📷 Developed an image classifier using pretrained **ResNet-50** with real-time predictions   
 - 🌱 Currently learning advanced AI applications in Healthcare, Business, and Cloud deployment  
 - 💡 Participated in AI, cybersecurity, and IoT hackathons to sharpen skills and teamwork  
 
