@@ -10,7 +10,7 @@
  
  ### 👩‍🎓 About Me
  
-- 🎓 2nd Year B.Tech CSE specializing in AI & Machine Learning  
+- 🎓 3rd Year B.Tech CSE specializing in AI & Machine Learning  
 - 💻 Passionate about building intelligent systems and secure applications  
 - 🧠 Developed a CNN-based **Brain Tumor Detection** model using transfer learning  
 - 🛡️ Built a **Real-Time Malicious Detection** tool for monitoring IoT cybersecurity threats   
